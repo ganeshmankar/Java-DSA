@@ -4,172 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ba2807-0835-4247-ac7a-4e677d0672ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ColNoFix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/MultiAl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/PassingInFuctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/arrSyntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/multiDimensionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/Binary Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/AgnosticBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/MountainArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/OrderAgnostic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/RotatedBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/RotationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/RowColMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/SearchInInfiniteArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/SearchInMountain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/SortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/SplitArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/lc_FirstAndLastPos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Binary Search/src/leetcode_smallestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/Conditions and Loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/CaseCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/CountNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/Fibo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/Pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditions and Loops/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/Functions and Methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/ChangeValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/PassingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Shadowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions and Methods/src/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output/Input and Output.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input and Output/src/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java DSA and Problem Solving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/Linear Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/FindMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/MaxMinIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/MaxWealth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/SearchInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/SearchInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/SearchInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linear Search/src/SearchingIn2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 1/Classes_Objects_Constructors_Keywords.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 1/src/IntroductionOOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 1/src/WrapperEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/Packages_static_SingletonClass_In-BuiltMethods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/StaticExample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/src/InnerClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/src/SingletonClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/src/SingletonClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/src/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 2/src/StaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/AcessModifiers/AcessModifiers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/AcessModifiers/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/AcessModifiers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/src/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/src/BoxColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/src/BoxPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/src/BoxWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/Polymorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/ObjectPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/Shapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Polymorphism/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 3/Principles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patters/Patters.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patters/src/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Array Question/Array Question.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Array Question/src/RBS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Array Question/src/Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Array Question/src/SearchReturnArraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Array Question/src/SortedOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/Backtracking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/AllPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/Maze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/MazeObstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/NKnights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/PrintPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Backtracking/src/SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Introduction/Introduction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Introduction/src/BSRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Introduction/src/Fibonacchi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Introduction/src/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Introduction/src/NumbersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Introduction/src/NumbersExampleRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/Normal Questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/CountZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/DigitsProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/DigitsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/NoOfSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/Nto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/Pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Normal Questions/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Patterns/Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Patterns/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Sorting Using Recursion/Sorting Using Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Sorting Using Recursion/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Sorting Using Recursion/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Sorting Using Recursion/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/Sorting Using Recursion/src/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/String and Subset Questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/Ascii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/PhonePad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/SkipChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/SubSetDupli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/SubSetIteratn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion/String and Subset Questions/src/SubSetRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Sorting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/CycleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/FirstMissPosiCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/MissingNoCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/RepeatedNoCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/SetMismatchCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/bubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/duplicateNosCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/src/missingNosCS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Performance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/PrettyPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/SB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/placeholders_list.txt" afterDir="false" />
+    <list default="true" id="e8ba2807-0835-4247-ac7a-4e677d0672ef" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 4/AcessModifiers/AcessModifiers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 4/AcessModifiers/src/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 4/Object Methods/Object Methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 4/Object Methods/src/ObjectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/AbstractClass_Interfaces_Annotations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/OOP 3/AcessModifiers/AcessModifiers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP 4/AccessControls_InBuiltPackages_ObjectClass.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/OOP 3/AcessModifiers/src/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP 4/AcessModifiers/src/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/OOP 3/AcessModifiers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/OOP 4/AcessModifiers/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +44,20 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ganeshmankar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="03110292-821e-4f96-b7e3-15087e48a3f3" />
+        <option name="url" value="https://github.com/ganeshmankar/Java-DSA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -210,23 +69,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ganes\Documents\Programming\Java DSA and Problem Solving\OOP\OOP 4" />
       <recent name="C:\Users\ganes\Documents\Programming\Java DSA and Problem Solving\Sorting Techniques" />
     </key>
   </component>
@@ -244,6 +104,15 @@
       <option name="presentableId" value="Default" />
       <updated>1699687853126</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1704628007716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704628007716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,5 +128,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>

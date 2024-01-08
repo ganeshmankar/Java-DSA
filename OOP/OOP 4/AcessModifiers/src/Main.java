@@ -11,5 +11,11 @@ public class Main {
 
         ArrayList<Integer> list = new ArrayList<>();
 //        list.DEFAULT_CAPACITY;
+
+//        obj.num; //can't access if num is private
+
+        obj.getNum();
+        int n = obj.num;
+
     }
 }
