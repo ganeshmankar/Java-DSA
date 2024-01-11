@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/Abstract Classes.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/Abstract Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/AbstractClass_Interfaces_Annotations.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/AbstractClass_Interfaces_Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 4/AccessControls_InBuiltPackages_ObjectClass.iml" filepath="$PROJECT_DIR$/OOP/OOP 4/AccessControls_InBuiltPackages_ObjectClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 4/AcessModifiers/AcessModifiers.iml" filepath="$PROJECT_DIR$/OOP/OOP 4/AcessModifiers/AcessModifiers.iml" />
@@ -11,13 +12,23 @@
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search in 2d Arrays/Binary Search in 2d Arrays.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search in 2d Arrays/Binary Search in 2d Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 1/Classes_Objects_Constructors_Keywords.iml" filepath="$PROJECT_DIR$/OOP/OOP 1/Classes_Objects_Constructors_Keywords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/Cloning/Cloning.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/Cloning/Cloning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/Comparing/Comparing.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/Comparing/Comparing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions and Loops/Conditions and Loops.iml" filepath="$PROJECT_DIR$/Conditions and Loops/Conditions and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/Extend interfaces 2.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/Extend interfaces 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/Extending Interfaces.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/Extending Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Functions and Methods/Functions and Methods.iml" filepath="$PROJECT_DIR$/Functions and Methods/Functions and Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/Generics/Generics.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/Generics_CustomArraylist_LambdaExpression_ExceptionHandling_ObjectCloning.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/Generics_CustomArraylist_LambdaExpression_ExceptionHandling_ObjectCloning.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 3/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/OOP/OOP 3/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input and Output/Input and Output.iml" filepath="$PROJECT_DIR$/Input and Output/Input and Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Introduction/Introduction.iml" filepath="$PROJECT_DIR$/Recursion/Introduction/Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java DSA and Problem Solving.iml" filepath="$PROJECT_DIR$/Java DSA and Problem Solving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/LambdaFuntions/LambdaFuntions.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/LambdaFuntions/LambdaFuntions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Interfaces/Nested Interfaces/Nested Interfaces.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Nested Interfaces/Nested Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Normal Questions/Normal Questions.iml" filepath="$PROJECT_DIR$/Recursion/Normal Questions/Normal Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 4/Object Methods/Object Methods.iml" filepath="$PROJECT_DIR$/OOP/OOP 4/Object Methods/Object Methods.iml" />
