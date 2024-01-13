@@ -4,52 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ba2807-0835-4247-ac7a-4e677d0672ef" name="Changes" comment="Second commit">
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/Abstract Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/src/Daughter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/src/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Abstract Classes/src/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/Extend interfaces 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/src/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/Extending Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/src/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Nested Interfaces/Nested Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Nested Interfaces/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Nested Interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/Brake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/CdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/NiceCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/src/PowerEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Cloning/Cloning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Cloning/src/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Cloning/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Comparing/Comparing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Comparing/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Comparing/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/ExceptionHandling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/src/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics/Generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics/src/CustomArraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics/src/CustomGenericArraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics/src/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics/src/WildCardExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/Generics_CustomArraylist_LambdaExpression_ExceptionHandling_ObjectCloning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/LambdaFuntions/LambdaFuntions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/OOP 6/LambdaFuntions/src/LambdaFunctions.java" afterDir="false" />
+    <list default="true" id="e8ba2807-0835-4247-ac7a-4e677d0672ef" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/Collection_VertorClass_Enum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/Collections/Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/Collections/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/EnumExample/EnumExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/EnumExample/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/EnumExample/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/Vector/Vector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/OOP 7/Vector/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -83,8 +46,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;ganeshmankar&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;ganeshmankar&quot;
   }
 }</component>
@@ -161,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704694994594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1705002132361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705002132361</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +154,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit OOP's principals, access controls, Object in-built methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit OOP's principals, access controls, Object in-built methods" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

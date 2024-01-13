@@ -13,8 +13,11 @@
       <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search in 2d Arrays/Binary Search in 2d Arrays.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search in 2d Arrays/Binary Search in 2d Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 1/Classes_Objects_Constructors_Keywords.iml" filepath="$PROJECT_DIR$/OOP/OOP 1/Classes_Objects_Constructors_Keywords.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/Cloning/Cloning.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/Cloning/Cloning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 7/Collection_VertorClass_Enum.iml" filepath="$PROJECT_DIR$/OOP/OOP 7/Collection_VertorClass_Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 7/Collections/Collections.iml" filepath="$PROJECT_DIR$/OOP/OOP 7/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/Comparing/Comparing.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/Comparing/Comparing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions and Loops/Conditions and Loops.iml" filepath="$PROJECT_DIR$/Conditions and Loops/Conditions and Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 7/EnumExample/EnumExample.iml" filepath="$PROJECT_DIR$/OOP/OOP 7/EnumExample/EnumExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/OOP/OOP 6/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/Extend interfaces 2.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extend interfaces 2/Extend interfaces 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/Extending Interfaces.iml" filepath="$PROJECT_DIR$/OOP/OOP 5/Interfaces/Extending Interfaces/Extending Interfaces.iml" />
@@ -42,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/Recursion/Sorting Using Recursion/Sorting Using Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Sorting Using Recursion/Sorting Using Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/String and Subset Questions/String and Subset Questions.iml" filepath="$PROJECT_DIR$/Recursion/String and Subset Questions/String and Subset Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP 7/Vector/Vector.iml" filepath="$PROJECT_DIR$/OOP/OOP 7/Vector/Vector.iml" />
     </modules>
   </component>
 </project>
